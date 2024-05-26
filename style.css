@@ -756,15 +756,13 @@ body {
 
 
 
-
-
 .p1 {
-    margin-top: 40px;
+    margin-top: 110px;
     color: var(--g--g);
     font-size: 100px;
 }
 
-.p2{
+.p2 {
     color: var(--y--y);
 }
 
