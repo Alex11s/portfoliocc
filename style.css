@@ -45,6 +45,7 @@ body {
 .nav-bar-img img{
     width: 150px;
     margin-top: 70px;
+    margin-bottom: 15px;
 }
 
 .nav-bar-link {
