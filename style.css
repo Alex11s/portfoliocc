@@ -300,6 +300,9 @@ body {
     
 
 }
+
+
+
 .education-2{
     display: flex;
     grid-column: 2 / 3;
@@ -355,6 +358,13 @@ body {
     color: var(--w--w);
     padding-left: 100px;
 
+}
+.date-u8{
+    letter-spacing: 3px;
+    font-weight: 40;
+    font-size: 20px;
+    color: var(--w--w);
+    padding-left: 465px;
 }
 
 .place-date{
@@ -577,6 +587,11 @@ body {
     .date-u2 {
         padding-left: 0;
         padding-top: 20px;
+    }
+    .date-u8 {
+        padding-left: 0;
+        padding-top: 20px;
+        padding-bottom: 465px;
     }
     .education-2 {
         display:table-row;
